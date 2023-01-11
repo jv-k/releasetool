@@ -12,7 +12,7 @@
   "main": "",
   "bin": "./release-tool.sh",
   "scripts": {
-    "ver-bump": "ver-bump -f composer.json -b",
+    "ver-bump": "ver-bump -b",
     "release": "gh release create --notes \"$(npx jv-k/releasetool)\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
