@@ -1,6 +1,6 @@
 {
   "name": "@jv-k/tlp-releasetool",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Generates commit info between the current tag and the previous one.",
   "homepage": "https://github.com/jv-k/releasetool#readme",
   "author": "John Valai <git@jvk.to>",
