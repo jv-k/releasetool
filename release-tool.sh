@@ -40,3 +40,5 @@ get_changelog () {
   echo "$COMMITS_MSG"
   echo ""
 }
+
+get_changelog

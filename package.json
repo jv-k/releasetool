@@ -1,19 +1,20 @@
 {
   "name": "@jv-k/tlp-releasetool",
-  "version": "1.0.0",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC",
+  "version": "0.1.0",
+  "description": "Generates commit info between the current tag and the previous one.",
+  "homepage": "https://github.com/jv-k/releasetool#readme",
+  "author": "John Valai <git@jvk.to>",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/jv-k/releasetool.git"
   },
-  "bugs": {
-    "url": "https://github.com/jv-k/buildtool/issues"
+  "main": "",
+  "bin": "./release-tool.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/jv-k/buildtool#readme",
-  "description": ""
+  "bugs": {
+    "url": "https://github.com/jv-k/releasetool/issues"
+  }
 }
